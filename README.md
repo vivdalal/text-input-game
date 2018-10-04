@@ -1,5 +1,5 @@
 # text-input-game
-A Finite state Machine based Game of Thrones game on the console.
+### A Finite state Machine based Game of Thrones game on the console.
 
 The project consists of the following components
 
@@ -8,8 +8,8 @@ The project consists of the following components
 3. Evidences and Testing
 4. Folder Structure
 
-===============================================================================================================================================================
-1. Game :
+
+## 1. Game :
 
 The game has been coded as a .py file and can be run from an IDE like PyCharm or the command line
 FileName : GameOfThrones.py
@@ -23,7 +23,7 @@ python GameOfThrones.py
 P.S.: The game has a background score which I believe you will like. So if you are in a Silent Zone, then play the game with your headphone connected
 
 
-Game Rules and Mission :
+#### Game Rules and Mission :
 
 Welcome to the Game of Thrones!!!
 This is a fun game where the aim is to Win the Iron Throne!
@@ -70,8 +70,7 @@ In order to Win and cherish the Iron Throne, you need to achieve the following t
 3. You need to complete the task in minimum number of moves
 4. There are many distractions in the game which may lead to dead-ends. So BEWARE!!!
 
-===============================================================================================================================================================
-2. Statistics:
+## 2. Statistics:
 
 Stats have been plotted and shown as a Jupyter Notebook
 
@@ -84,13 +83,11 @@ Instructions to access the Stats:
 2. Run Jupyter Notebook (COMMAND : jupyter notebook)
 3. Open the Stats_TextChoiceGame_GOT.ipynb or you can directly have a look at the previous stats by opening the HTML page : Stats_TextChoiceGame_GOT.slides.html
 
-===============================================================================================================================================================
-3. Evidences and Testing
+## 3. Evidences and Testing
 
 The End to End game flow and Testing results can be found in the Evidences and Testing folder
 
-===============================================================================================================================================================
-4. Folder Structure
+## 4. Folder Structure
 
 - Evidences and Testing
         Game Screenshots.docx
@@ -104,4 +101,4 @@ The End to End game flow and Testing results can be found in the Evidences and T
         Stats_TextChoiceGame_GOT.slides.html
 - Resources
         games_of_thrones.mp3
-readme.md 
+readme.md
