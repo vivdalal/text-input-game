@@ -1,5 +1,5 @@
 # text-input-game
-### A Finite state Machine based Game of Thrones game on the console.
+### A Finite state Machine based Game of Thrones game on the console using Python.
 
 The project consists of the following components
 
