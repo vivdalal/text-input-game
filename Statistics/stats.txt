@@ -1,0 +1,21 @@
+player_name,win_status,number_of_moves,wrong_input_count,wrong_kill_count,enemy_kill_count,score
+Parth Pandya,True,32,0,0,3,1500
+Jagruti Dalal,True,21,0,0,3,2200
+Chintu,True,21,0,0,3,2200
+Hiral,True,16,0,0,3,2400
+Vivek Dalal,True,16,0,0,3,2400
+Durwasa C,True,27,0,0,4,1600
+Karan Barai,True,16,0,0,3,2400
+Gaurang Davda,True,37,0,0,3,2100
+John Dow,False,4,0,2,0,0
+Harsh,True,26,0,1,4,1200
+Pankaj,True,20,3,1,3,1840
+Raj Sankhe,True,21,0,1,3,1800
+Vidhi Shah,True,39,18,0,3,1640
+Tushar Dalal,True,27,0,0,3,2200
+Ed Sheeran,False,2,0,0,0,0
+Kunal Shaha,False,11,0,2,0,0
+Ritesh S,True,16,0,0,3,2400
+Nikhil,True,35,11,8,3,680
+Deep Gudhka,False,17,6,0,1,0
+Ami,False,14,0,1,1,0
